@@ -1,0 +1,11 @@
+{
+  "name": "Botón Exportar Directo",
+  "description": "Botón súper ligero para exportar una tabla a Excel/CSV directamente.",
+  "type": "visualization",
+  "version": "1.0.0",
+  "icon": "export",
+  "author": "Agustin Quilodran / Consultor Qlik",
+  "dependencies": {
+    "qlik-sense": ">=3.0.x"
+  }
+}
